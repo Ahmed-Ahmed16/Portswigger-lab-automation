@@ -1,1 +1,1 @@
-# portswigger automation script for business logic vulnerability lab - isolation dual endpoints 
+# Inconsistent handling of exceptional input Business logic vulnerability portswigger automation script
